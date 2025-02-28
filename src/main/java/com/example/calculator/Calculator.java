@@ -4,6 +4,7 @@ import java.math.BigInteger;
 
 public class Calculator {
 
+    // jenkins checker
     // Square root function: √x
     public static double squareRoot(double x) {
         if (x < 0) {
